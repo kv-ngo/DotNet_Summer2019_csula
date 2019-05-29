@@ -1,0 +1,26 @@
+﻿<Properties GitUserInfo="UsingMD" StartupConfiguration="{2A76D1B8-A1C2-4A1E-9582-907EFD3BE915}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="gggg/Program.cs" Line="7" Column="20" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="gggg" expanded="True" selected="True">
+            <Node name="gggg" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.gggg PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
